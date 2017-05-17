@@ -1,3 +1,0 @@
-Cut down version of pdfium, focusing on paper documents (stripped out javascript and forms stuff), extraction and editing.
-
-tested on win 7 pro 64, used in conjunction with pdfsharp for a range of in house pdf tools.  
